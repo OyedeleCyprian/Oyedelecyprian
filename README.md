@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**OyedeleCyprian/Oyedelecyprian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning data analytics with Dahel techies...
-- 👯 I’m looking to collaborate on with start up founders and business owners ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him...
-- ⚡ Fun fact: sporty...
--->
+# Hi i am OyedeleCyprian 👋#
+## i am a data analyst ##
+- 🔭 I’m currently working on machine learning 
+- 🌱 I’m currently learning data analytics with Dahel techies
+- 👯 I’m looking to collaborate on with start up founders and business owners 
+- 🤔 I’m looking for help with power BI 
+- 💬 Ask me about data analysis
+- 📫 How to reach me[]  (https://www.linkedin.com/public-profile/settings)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: sporty
